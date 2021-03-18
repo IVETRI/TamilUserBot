@@ -14,8 +14,7 @@
 
 [![tamilbot logo](https://telegra.ph/file/2790938cacb9aa80d478c.jpg)](https://heroku.com/deploy?template=https://github.com/ivetri/tamiluserbot)
 
-##This is just heroku support source:
-
+## This is just heroku support source:
 Main source is here [main source](https://github.com/Ivetri/TamilBot) fork and give star to that repo.
 
 ## Deploy
@@ -40,7 +39,7 @@ Main source is here [main source](https://github.com/Ivetri/TamilBot) fork and g
 நீங்கள் சேனல் மற்றும் தேவையான அனைத்து படிகளையும் பின்பற்றியுள்ளீர்கள் என்பதை உறுதிப்படுத்திக் கொள்ளுங்கள்.
 [Support group](https://t.me/Tamilsupport)
 
-#Spacial Thanks To:
+# Spacial Thanks To:
 [Sandy](https://github.com/sandy1709)
 
 ## credits
