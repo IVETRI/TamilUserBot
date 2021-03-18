@@ -12,20 +12,6 @@
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FIVETRI%2FTamilUserBot&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/Ivetri/TamilBot)
 
-```
-
-Before clicking on deploy to heroku just click on fork and star just below
-
-<p align="center">
-  <a href="https://github.com/ivetri/tamiluserbot/fork">
-    <img src="https://img.shields.io/github/forks/ivetri/tamiluserbot?label=Fork&style=social">
-    
-  </a>
-  <a href="https://github.com/ivetri/tamiluserbot">
-    <img src="https://img.shields.io/github/stars/ivetri/tamiluserbot?style=social">
-  </a>
-</p>
-
 [![tamilbot logo](https://telegra.ph/file/2790938cacb9aa80d478c.jpg)](https://heroku.com/deploy?template=https://github.com/ivetri/tamiluserbot)
 
 ##This is just heroku support source:
